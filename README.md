@@ -44,4 +44,7 @@ I am a student of Systems Engineering and a full-stack developer with a focus on
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 
 ---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angeldev07&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+
 
