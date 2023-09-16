@@ -8,15 +8,6 @@
       <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=angeldev07&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -44,7 +35,20 @@ I am a student of Systems Engineering and a full-stack developer with a focus on
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angeldev07&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+<summary>Click Para Ver Estadísticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
+<p align="center">
+  <a href="https://github.com/angeldev07">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeldev07&theme=dark" />
+  </a>
+  <a href="https://github.com/angeldev07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeldev07&hide_border=true&card_width=338&theme=dark" />
+  </a>
+  <a href="https://github.com/angeldev07">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angeldev07&theme=dark" />
+  </ad
+</div>
+</p>
+    
+---
 
 
